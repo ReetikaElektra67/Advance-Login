@@ -1,6 +1,6 @@
 # Advance-Login
 #This is a Python code  which enable the user to capture the image, IP and many other information of the person trying to hack their email account. ;)
-# This code for the security purposes. :)
+# This code for the security purposes , for the code open in RAW . :)
 from tkinter import *
 import tkMessageBox
 import socket
